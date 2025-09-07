@@ -27,4 +27,3 @@ def load_model():
         return model
     except Exception as e:
         raise customexception(e,sys)
-        
